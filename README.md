@@ -30,26 +30,40 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Step 1: Create Azure VM and Set Up Credentials
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Step 2: Log in to the VM via Remote Desktop
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Step 3: Download and Extract osTicket Installation Files
+
+Step 4: Install IIS with CGI Support
+
+Step 5: Install PHP Manager for IIS
+
+Step 6: Install IIS Rewrite Module
+
+Step 7: Set Up PHP Directory and Install PHP
+
+Step 8: Install Visual C++ Redistributable
+
+Step 9: Install MySQL and Configure Database
+
+Step 10: Register PHP with IIS
+
+Step 11: Install osTicket v1.15.8
+
+Step 12: Enable Required PHP Extensions
+
+Step 13: Configure osTicket Settings
+
+Step 14: Set File Permissions
+
+Step 15: Finalize osTicket Setup in Browser
+
+Step 16: Create Database in HeidiSQL
+
+Step 17: Complete osTicket Installation
+
+Step 18: Verify Installation and Access Helpdesk
+
+Step 19: Clean Up Installation Files
